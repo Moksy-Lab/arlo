@@ -20,12 +20,74 @@
     --grey-Color: #6d6d6d;
     --black-Color: #060606;
     --main-Background-Color: #FFFFFF;
-    --secondary-Background-Color:;
+    --secondary-Background-Color: ;
     --white-Color: #fff;
     --secondary-Font: "Montserrat", sans-serif;
-    --button-padding: 13px 30px;
-    --button-border-radius: 5px;
+    --button-padding: 11px 29px;
+    --button-border-radius: 45px;
     --button-font-weight: 500;
     --heading: 35px;
     --heading-two: 25px;
+}
+
+/*headere2d79a3ca0c8814a*/
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link,
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link{
+    color: var(--black-Color);
+    font-weight: var(--button-font-weight);
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link:hover,
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link:hover{
+    color: var(--primary-Color);
+}
+.headere2d79a3ca0c8814a .button {
+    background-color: var(--primary-Color);
+    box-shadow: none;
+    font-weight: var(--button-font-weight);
+    color: var(--white-Color);
+    border-radius: var(--button-border-radius);
+    padding: var(--button-padding);
+}
+/*abouth66a519b827a7d261*/
+.abouth66a519b827a7d261 .DescriptionHeading {
+    font-size: 50px;
+    color: var(--black-Color);
+}
+.abouth66a519b827a7d261 .searchBtn{
+    background-color: var(--primary-Color);
+    box-shadow: none;
+    font-weight: var(--button-font-weight);
+    color: var(--white-Color);
+    border-radius: var(--button-border-radius);
+    padding: var(--button-padding);
+}
+/*abouteb092de7c8df0610*/
+.abouteb092de7c8df0610 #AbOuTuS {
+    padding: 3rem;
+    font-weight: var(--button-font-weight);
+}
+/*serviceebfcf165e4ae5852*/
+.serviceebfcf165e4ae5852 h2 {
+    font-size: var(--heading);
+}
+.serviceebfcf165e4ae5852 .font-weight-bold {
+    font-weight: var(--button-font-weight) !important;
+}
+/*formb6398e2eefdedd99*/
+.formb6398e2eefdedd99 h1{
+    font-size: var(--heading);
+}
+.formb6398e2eefdedd99 .btn-secondary,
+.formb6398e2eefdedd99 .btn-secondary:hover,
+.formb6398e2eefdedd99 .btn-secondary:not(:disabled):not(.disabled):active{
+    background-color: var(--primary-Color);
+    border: var(--primary-Color);
+}
+/*quickLinkq0c8d3826c0d518b0*/
+.quickLinkq0c8d3826c0d518b0 .quicklink{
+    color: var(--grey-Color);
+}
+.quickLinkq0c8d3826c0d518b0 .quicklink:hover {
+    background-color: var(--primary-Color);
+    border: 2px solid var(--primary-Color);
 }
