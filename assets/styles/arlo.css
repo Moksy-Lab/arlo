@@ -91,3 +91,92 @@
     background-color: var(--primary-Color);
     border: 2px solid var(--primary-Color);
 }
+/*facianLRAkZ5pXHfmy7YA*/
+.facianLRAkZ5pXHfmy7YA h1{
+    font-size: var(--heading);
+}
+.facianLRAkZ5pXHfmy7YA h2{
+    font-size: var(--heading-two);
+}
+.facianLRAkZ5pXHfmy7YA strong{
+   font-weight: var(--button-font-weight);
+}
+.facianLRAkZ5pXHfmy7YA a,
+.facianLRAkZ5pXHfmy7YA a:hover{
+    color: var(--error-Color);
+    text-decoration: none;
+    background-color: transparent;
+    font-weight: 600;
+ }
+/*bannerb9ce7550acbf1ce9f*/
+ .bannerb9ce7550acbf1ce9f .background {
+    background-image: url(http://rb.gy/5rpuxs);
+    padding: 5rem;
+}
+.bannerb9ce7550acbf1ce9f .button,
+.bannerb9ce7550acbf1ce9f .button:hover {
+    background-color: var(--primary-Color);
+    border: var(--primary-Color);
+    color: var(--white-Color);
+}
+/*teama72342011f2d707e*/
+.teama72342011f2d707e .row.heading h2{
+    font-size: var(--heading);
+    line-height: 0px;
+    font-weight: var(--button-font-weight);
+    margin: 0px;
+    padding-bottom: 60px;
+}
+.teama72342011f2d707e .our-webcoderskull .cnt-block h3{
+    color: var(--black-Color);
+}
+/*pricestej9qphfwo1*/
+.pricestej9qphfwo1 .fdb-block {
+    padding: 3.5rem 0;
+    background-color: var(--white-Color);
+    background-image: none;
+}
+.pricestej9qphfwo1 .fdb-block .fdb-box{
+    background: var(--white-Color);
+}
+.pricestej9qphfwo1 h1 {
+   font-size: var(--heading);
+}
+.pricestej9qphfwo1 h2 {
+    font-size: var(--heading-two);
+ }
+.pricestej9qphfwo1 .text-white {
+    color: var(--black-Color) !important;
+}
+.pricestej9qphfwo1 p {
+    font-size: var(--heading-two);
+}
+.pricestej9qphfwo1 .btn-dark,
+.pricestej9qphfwo1 .btn-dark:hover,
+.pricestej9qphfwo1 .btn-dark:not(:disabled):not(.disabled):active,
+.pricestej9qphfwo1 .btn-dark:focus,
+.pricestej9qphfwo1 .fdb-block .btn-secondary,
+.pricestej9qphfwo1 .btn-secondary:not(:disabled):not(.disabled):active{
+    background-color: var(--primary-Color);
+    border: var(--primary-Color);
+    color: var(--white-Color);
+}
+/*clientsca9o7rhywmy*/
+.clientsca9o7rhywmy h2{
+    font-size: var(--heading);
+    margin-top: 15px
+}
+/*footerf439c65adee997571*/
+.footerf439c65adee997571{
+    overflow: hidden;
+}
+.footerf439c65adee997571 .footer-wrap p {
+    font-size: 16px;
+    color: var(--black-Color);
+}
+.footerf439c65adee997571 .footer-links li a,
+.footerf439c65adee997571 .footer-category li a,
+.footerf439c65adee997571 .copyright{
+    font-size: 16px;
+    color: var(--black-Color);
+}
